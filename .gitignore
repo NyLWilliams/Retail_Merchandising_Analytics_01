@@ -1,0 +1,10 @@
+# Ignore database files
+*.db
+*.splite
+
+# OS junk
+.DS_Store
+
+text
+._*
+.vscode/
