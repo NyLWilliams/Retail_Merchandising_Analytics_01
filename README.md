@@ -25,6 +25,10 @@ Retail_Merchandising_Analytics_01/
 ├── SQL/
 │   ├── 01_data_cleaning.sql # Data validation, deduplication, and integrity checks
 │   └── 02_analysis.sql      # Revenue, product, region, and salesperson analysis
+|
+|__ Live Dashboard
+|   **View on Tableau Public:**
+|  [(https://public.tableau.com/shared/8XBGJ6RMH?:display_count=n&:origin=viz_share_link)]
 │
 └── README.md                
 # Project documentation
